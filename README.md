@@ -18,4 +18,18 @@
     * :point_right: https://code.visualstudio.com/Download 
       Download the one for your operating system.
     * :point_right: https://www.youtube.com/watch?v=MlIzFUI1QGA
-
+    
+    # We will be making a REPORT GENEATOR USING PYTHON
+    ## :bulb: Idea
+    * Creating a program in python that can read from a file and store the information as a PDF.
+    * It should be able to make a sample coverpage for assignments.
+    
+    ## STEP 1 : GO TO YOUR TERMINAL IN VISUAL STUDIO CODE
+    Type the code below. :point_down:
+    
+    ``` pip install pyPdf```
+    
+    * :point_right: Official website :https://pypi.org/project/pyPdf/
+  ## GET STARTED MAKING PDFS.
+  ## REFER TO FILE1-5
+  
