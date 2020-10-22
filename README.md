@@ -30,6 +30,16 @@
     ``` pip install pyPdf```
     
     * :point_right: Official website :https://pypi.org/project/pyPdf/
+    * Visit the website to know more about what Pypdf can do!
   ## GET STARTED MAKING PDFS.
+  
   ## REFER TO FILE1-5
+  
+  ## READY TO MOVE TO THE NEXT SESSION?
+  
+  * Session 1 (Beginner): https://github.com/JustNunuz/STC-PYTHON-WORKSHOP-2020
+  * Session 2 (Intermediate): https://github.com/shongyang/STC-PYTHON-WORKSHOP-2020---INTERMEDIATE
+  * Session 3 (Project / Advanced): https://github.com/easonchai/python2020-workshop
+  
+  ## Additional Learning materials
   
