@@ -58,10 +58,10 @@ pdf.output("Demo1.pdf")
   * Session 3 (Project / Advanced): https://github.com/easonchai/python2020-workshop
   
   ## Additional Learning materials
-  Python:https://www.w3schools.com/python/default.asp
-  Reading a file line by line : https://www.geeksforgeeks.org/read-a-file-line-by-line-in-python/
-  How to work with Pypdf: https://realpython.com/pdf-python/
-  Work with pdf and word documents: https://automatetheboringstuff.com/2e/chapter15/
+  * Python:https://www.w3schools.com/python/default.asp
+  * Reading a file line by line : https://www.geeksforgeeks.org/read-a-file-line-by-line-in-python/
+  * How to work with Pypdf: https://realpython.com/pdf-python/
+  * Work with pdf and word documents: https://automatetheboringstuff.com/2e/chapter15/
   
   Takayoshi Y once said
 
