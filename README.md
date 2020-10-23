@@ -1,8 +1,8 @@
   # :snake: STC-PYTHON-WORKSHOP-2020
-  Welcome to this beginner friendly walktrhough Python. The purpose of this lesson is to introduce you to python and give you an overview on what python can do.
-  Check out the Sunway Tech Club's repo right :point_right:[here](https://github.com/sunwaytechclub):point_left:.
+  Welcome to this beginner friendly walktrhough Python. The purpose of this lesson is to introduce you to Python and give you an overview on what Python can do.
+  Check out the Sunway Tech Club's page right :point_right:[here](https://github.com/sunwaytechclub):point_left:.
 ## Topics Covered
-* Setting up your python and Visual Studio Code
+* Setting up your Python and Visual Studio Code
 * Input
 * Output
 * IF statements
@@ -20,6 +20,7 @@
       Download the one for your operating system.
     * :point_right: https://www.youtube.com/watch?v=MlIzFUI1QGA
     
+    
     # We will be making a REPORT GENEATOR USING PYTHON
     ## :bulb: Idea
     * Creating a program in python that can read from a file and store the information as a PDF.
@@ -33,9 +34,23 @@
     * :point_right: Official website :https://pypi.org/project/pyPdf/
     * Visit the website to know more about what Pypdf can do!
   ## GET STARTED MAKING PDFS.
-  
-  ## REFER TO FILE1-5
-  
+  ```
+from fpdf import FPDF
+
+pdf=FPDF()
+pdf.add_page()
+pdf.set_font("Arial",size=20)
+pdf.cell(200,10,txt="This is line number 1",ln=1,align="C")
+pdf.cell(200,10,txt="This is line number 2",ln=2,align="L")
+pdf.cell(200,10,txt="This is line number 3",ln=3,align="R")
+#Alignment is totally your choice
+```
+## Adding an image
+
+```
+pdf.output("Demo1.pdf")
+#"Demo" is just the name, the name can be anything you desire.
+```
   ## READY TO MOVE TO THE NEXT SESSION?
   
   * Session 1 (Beginner): https://github.com/JustNunuz/STC-PYTHON-WORKSHOP-2020
