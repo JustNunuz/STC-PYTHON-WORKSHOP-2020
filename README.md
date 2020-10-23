@@ -13,11 +13,11 @@
  ## :world_map: GETTING STARTED
   * Installing Python:
     * :point_right: https://www.python.org/downloads/  
-    Download Python 3 for your operating system.
+    * Download Python 3 for your operating system.
     * :point_right: https://www.youtube.com/watch?v=UvcQlPZ8ecA
   * Downloading VS code: 
     * :point_right: https://code.visualstudio.com/Download 
-      Download the one for your operating system.
+    * Download the one for your operating system.
     * :point_right: https://www.youtube.com/watch?v=MlIzFUI1QGA
     
     
@@ -33,7 +33,7 @@
     
     * :point_right: Official website :https://pypi.org/project/pyPdf/
     * Visit the website to know more about what Pypdf can do!
-  ## GET STARTED MAKING PDFS.
+  ## STEP 2: MAKE YOUR FIRST PDF!
   ```
 from fpdf import FPDF
 
@@ -58,4 +58,13 @@ pdf.output("Demo1.pdf")
   * Session 3 (Project / Advanced): https://github.com/easonchai/python2020-workshop
   
   ## Additional Learning materials
+  Python:https://www.w3schools.com/python/default.asp
+  Reading a file line by line : https://www.geeksforgeeks.org/read-a-file-line-by-line-in-python/
+  How to work with Pypdf: https://realpython.com/pdf-python/
+  Work with pdf and word documents: https://automatetheboringstuff.com/2e/chapter15/
+  
+  Takayoshi Y once said
+
+> “I learned the fundamentals for programming, 
+> which is just what I needed as a first step for my career change!”
   
