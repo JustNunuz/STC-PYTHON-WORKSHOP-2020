@@ -1,5 +1,5 @@
   # :snake: STC-PYTHON-WORKSHOP-2020
-  Welcome to this beginner friendly walktrhough Python. The purpose of this lesson is to introduce you to Python and give you an overview on what Python can do.
+  Welcome to this beginner friendly walkthrough Python. The purpose of this lesson is to introduce you to Python and give you an overview on what Python can do.
   Check out the Sunway Tech Club's page right :point_right:[here](https://github.com/sunwaytechclub):point_left:.
 ## Topics Covered
 * Setting up your Python and Visual Studio Code
